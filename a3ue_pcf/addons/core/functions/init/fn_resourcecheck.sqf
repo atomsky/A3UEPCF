@@ -357,4 +357,6 @@ while {true} do {
 		
 		publicVariable "unlockedVehicleTypes";
 	};
+
+        [CBA_EVENT_SERVER_RESOURCE_CHECK_DONE, []] call FUNCMAIN(triggerLocalEvent);
 };

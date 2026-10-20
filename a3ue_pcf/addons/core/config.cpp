@@ -11,7 +11,7 @@ class CfgPatches {
         authors[] = { AUTHORS, "Land_Strider" };
         authorUrl = "";
         VERSION_CONFIG;
-        A3A_compatibility[] = {12, 1};
+        A3A_compatibility[] = {12, 2};
     };
 };
 
